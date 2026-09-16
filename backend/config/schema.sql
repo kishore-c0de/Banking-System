@@ -1,8 +1,5 @@
 -- Banking Application Database Schema
 
-CREATE DATABASE IF NOT EXISTS banking_app;
-USE banking_app;
-
 CREATE TABLE IF NOT EXISTS users (
   id INT AUTO_INCREMENT PRIMARY KEY,
   full_name VARCHAR(120) NOT NULL,
