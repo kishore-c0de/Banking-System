@@ -15,7 +15,7 @@ export default function Layout({ title, children }) {
       <aside className="sidebar">
         <div className="brand">
           <span className="dot" />
-          Nimbus Bank
+          Indian "Come Tomorrow" Bank
         </div>
         <NavLink to="/" end className={({ isActive }) => `nav-link${isActive ? ' active' : ''}`}>
           Dashboard

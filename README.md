@@ -1,4 +1,4 @@
-# Nimbus Bank — Banking System (React + Express + MySQL)
+# Indian "Come Tomorrow" Bank — Banking System (React + Express + MySQL)
 
 A full-stack banking application: user accounts, multiple bank accounts per
 user, deposits, withdrawals, account-to-account transfers, and transaction

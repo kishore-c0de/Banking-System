@@ -28,7 +28,7 @@ export default function Login() {
     <div className="auth-page">
       <div className="card auth-card">
         <h1>Welcome back</h1>
-        <p className="sub">Log in to your Nimbus Bank account.</p>
+        <p className="sub">Log in to your Indian "Come Tomorrow" Bank account.</p>
 
         <form onSubmit={handleSubmit}>
           <div className="form-group">
